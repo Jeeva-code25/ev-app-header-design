@@ -1,0 +1,55 @@
+.hero{
+    margin: 20px 120px;
+    margin-top: 100px;
+}
+
+
+.hero-text p{
+    font-size: 4em;
+    color: white;
+    line-height: 100px;
+}
+
+.hero-explore{
+    margin-top: 25px;
+    display: flex;
+    background-color: white;
+    border-radius: 50px;
+    width: fit-content;
+    align-items: center;
+    justify-content: space-between;
+    gap: 35px;
+    padding: 4px 8px;
+    padding-left: 20px;
+    position: relative;
+}
+
+.hero-dot-play{
+    margin-top: 25px;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.hero-dots{
+    margin-top: 20px;
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.orange{
+    color: orangered;
+}
+
+.hero-play{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+}
